@@ -1,2 +1,12 @@
 $icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
 @import '~bootstrap-sass/assets/stylesheets/bootstrap';
+
+h1 {
+  font-size: 50px;
+  color: yellow;
+  background-color: pink;
+}
+
+body {
+  background-image: url('https://i.imgur.com/ysdYx0h.jpg')
+}
